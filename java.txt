@@ -1,1 +1,2 @@
  Feature 1.0 added 
+ second feature addedd 2.0 
